@@ -1,8 +1,6 @@
 
 ![G](https://github.com/user-attachments/assets/e18155f9-3a6c-42d8-b667-c9f14bb0815f)
-![Downloads](https://img.shields.io/npm/dt/gaked-crosshair.svg)
-![Release Downloads](https://img.shields.io/github/downloads/user-attachments/crosshair-app/latest/total.svg)
-![Clones](https://img.shields.io/github/traffic/user-attachments/crosshair-app/clone.svg)
+![Downloads](https://img.shields.io/npm/dt/gaked-crosshair.svg?color=28a745)
 
 # Lightweight Crosshair Overlay
 
