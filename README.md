@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c776e757-8956-435d-b56c-9f22c6920597" alt="Gæked Crosshair-1">
-</p>
+
+![G](https://github.com/user-attachments/assets/e18155f9-3a6c-42d8-b667-c9f14bb0815f)
 
 
 # Lightweight Crosshair Overlay
@@ -28,3 +27,6 @@ Thanks to its simple design and lack of unnecessary UI elements, the app runs wi
 - **No unnecessary bloat—just pure functionality when you need it most.**
 
 If you're looking for a lightweight, reliable crosshair that doesn't compromise on performance, this is the solution you've been waiting for.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c776e757-8956-435d-b56c-9f22c6920597" alt="Gæked Crosshair-1">
+</p>
