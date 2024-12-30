@@ -1,6 +1,6 @@
 
 ![G](https://github.com/user-attachments/assets/e18155f9-3a6c-42d8-b667-c9f14bb0815f)
-![Release Downloads](https://img.shields.io/github/downloads/maaaaaaaaaaaaaaathew/Gæked-Crosshair/latest/total.svg?color=28a745)
+![Release Downloads](https://img.shields.io/github/downloads/maaaaaaaaaaaaaaathew/Gaeked-Crosshair/latest/total.svg?color=28a745)
 
 # Lightweight Crosshair Overlay
 
