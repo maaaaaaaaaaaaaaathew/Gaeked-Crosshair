@@ -15,7 +15,7 @@ Yellow is scientifically proven to be one of the most visible colors for the hum
 The cross shape has long been a favorite for players due to its straightforward design and clear alignment. It provides precise horizontal and vertical reference points, ensuring you're always on target.
 
 ### 100% Centered for Accuracy
-Unlike other free crosshair apps, this overlay ensures that your crosshair is always perfectly centered on the screen, so you can rely on it for every shot, every time.
+Unlike other **free crosshair apps**, this overlay ensures that your crosshair is always perfectly centered on the screen, so you can rely on it for every shot, every time.
 
 ### Zero Delay, Maximum Performance
 Thanks to its simple design and lack of unnecessary UI elements, the app runs with zero delay. There’s no extra weight added to your system, ensuring that your gameplay remains smooth and your inputs are as fast as possible.
