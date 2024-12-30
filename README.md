@@ -1,4 +1,7 @@
-![Gæked Crosshair-1](https://github.com/user-attachments/assets/c776e757-8956-435d-b56c-9f22c6920597)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c776e757-8956-435d-b56c-9f22c6920597" alt="Gæked Crosshair-1">
+</p>
+
 
 # Lightweight Crosshair Overlay
 
